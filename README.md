@@ -53,13 +53,14 @@ habit-tracker/
 │
 ├── habit_tracker.py
 ├── habits.json
-└── README.md
+|── README.md
+|__habit-tracker-demo.mp4
 ## Author
 Nivedita Sharma
 
 ## Demo Video
-<video controls width="700">
-  <source src="https://github.com/user-attachments/assets/227d5209-0679-4c75-ba29-0df3359d6e3c" type="video/mp4">
-</video>
+## 🎥 Demo Video
+
+[Click here to watch the Habit Tracker Demo](https://github.com/user-attachments/assets/227d5209-0679-4c75-ba29-0df3359d6e3c)
+
 The demo shows adding a habit, checking it off for the day, viewing the streak, and restarting the app to verify that the data is saved.
- 
