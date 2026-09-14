@@ -59,7 +59,7 @@ Nivedita Sharma
 
 ## Demo Video
 <video controls width="700">
-  <source src="./habit-tracker-demo.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/nivv18/habit-tracker/main/habit-tracker-demo.mp4" type="video/mp4">
 </video>
 The demo shows adding a habit, checking it off for the day, viewing the streak, and restarting the app to verify that the data is saved.
  
